@@ -70,20 +70,9 @@ brew-haven/
     ├── menu3.jpg
     ├── menu4.jpg
     └── gallery.jpg
-    
-## Link Website
-
-[Masukkan link GitHub Pages]
-
-Contoh:
-https://username.github.io/brew-haven/
 
 ## Link Repository
-
-[Masukkan link repository GitHub]
-
-Contoh:
-https://github.com/username/brew-have
+https://github.com/jinsoull/COFFEE-SHOP-DDAP.git
 
 ## Author
 
